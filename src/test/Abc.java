@@ -14,7 +14,7 @@ public class Abc {
 		map.put(1,"xyz");
 		//map.put(2,"ppp");
 		
-		System.out.println(map);
+		System.out.println(map); // o/p = 1,xyz
 	}
 
 }
