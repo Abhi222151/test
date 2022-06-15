@@ -11,6 +11,7 @@ public class Fabonacci {
 			 a=b;
 			 b=c;
 			 System.out.println(c);
+//o/p - 0,1,3,5,8...
 			 
 		 }
 	}
